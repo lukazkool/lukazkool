@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @lukazkool
+-  I'm learning c++
+-  I mainly use python and c#, but know a few others as well. 
